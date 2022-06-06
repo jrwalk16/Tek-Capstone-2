@@ -1,19 +1,19 @@
-Team,Games Won,Games Lost,Winning Percentage
-Richmond,141,88,61.57%
-Collingwood,119,106,52.89%
-Melbourne,89,131,40.45%
-Adelaide,120,105,53.33%
-Essendon,101,120,45.70%
-Brisbane Lions,90,131,40.72%
-North Melbourne,102,120,45.95%
-Greater Western Sydney,105,125,45.65%
-West Coast,141,89,61.30%
-Carlton,71,145,32.87%
-Geelong,159,79,66.81%
-Sydney,146,87,62.66%
-Port Adelaide,127,99,56.19%
-St Kilda,84,131,39.07%
-Gold Coast,56,157,26.29%
-Hawthorn,147,86,63.09%
-Western Bulldogs,112,114,49.56%
-Fremantle,114,111,50.67%
+Team,Games Won,Games Lost,Winning Percentage,Total Games
+Richmond,141,88,61.57%,229
+Collingwood,119,106,52.89%,225
+Melbourne,89,131,40.45%,220
+Adelaide,120,105,53.33%,225
+Essendon,101,120,45.70%,221
+Brisbane Lions,90,131,40.72%,221
+North Melbourne,102,120,45.95%,222
+Greater Western Sydney,105,125,45.65%,230
+West Coast,141,89,61.30%,230
+Carlton,71,145,32.87%,216
+Geelong,159,79,66.81%,238
+Sydney,146,87,62.66%,233
+Port Adelaide,127,99,56.19%,226
+St Kilda,84,131,39.07%,215
+Gold Coast,56,157,26.29%,213
+Hawthorn,147,86,63.09%,233
+Western Bulldogs,112,114,49.56%,226
+Fremantle,114,111,50.67%,225
